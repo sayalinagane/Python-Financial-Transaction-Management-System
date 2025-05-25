@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2021-05-17] [06:06:32]       454665              454665
