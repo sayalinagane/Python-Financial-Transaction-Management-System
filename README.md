@@ -38,30 +38,46 @@ This project replicates essential ATM functionalities and aims to demonstrate th
 ![image](https://github.com/user-attachments/assets/f54ef0be-482a-4785-aafa-f81deaf535f1)
 
 # After that you will get account number that you have to enter while login
-![image](https://github.com/user-attachments/assets/8cd77298-a3dc-4b3e-bfa4-ec057b81fec0)
+
+![image](https://github.com/user-attachments/assets/c9c87652-b98c-4994-9aaf-88eede348bf5)
+
 
 # After logging in there are four options that are:
-![image](https://github.com/user-attachments/assets/618b2b71-2eb5-4706-87c1-8e475e2608ea)
+
+![image](https://github.com/user-attachments/assets/14ea8861-06cf-4bb1-a8fb-074015a03e0e)
+
 
 # 1.Credit Amount in Your Account Menu:
-![image](https://github.com/user-attachments/assets/1d39a740-9d59-4864-bc4b-08bb02756677)
+
+![image](https://github.com/user-attachments/assets/adca2e97-6857-4d8a-8273-8a53988143e1)
+
 
 # After you will give the message amount credited.
-![image](https://github.com/user-attachments/assets/cf5da0eb-4522-4be9-a393-013962adebfd)
+
+![image](https://github.com/user-attachments/assets/91c09bcc-e5b7-4d71-8f6f-c175cd4e6b59)
+
 
 # 2.Debit Amount in Your Account Menu:
-![image](https://github.com/user-attachments/assets/c77eda96-1b8e-4833-b130-da8665b08fb2)
+
+![image](https://github.com/user-attachments/assets/dd55fd6b-b4e7-480a-b5e1-f814d1a878fe)
+
 
 # After you will give the message amount debited successfully!! 
-![image](https://github.com/user-attachments/assets/4c0c7790-a78d-49cb-ba90-08451fefcd78)
+
+![image](https://github.com/user-attachments/assets/82ee7ccd-a151-4a9e-bbe0-c9cb7cf40eb0)
+
 
 # 3.Check Balance Menu:
 For this menu the user can check or view the remaining balances.
-![image](https://github.com/user-attachments/assets/ff95d418-1495-41bc-b37f-560922e69024)
+
+![image](https://github.com/user-attachments/assets/0351a79f-fddd-41f8-8811-f00278d720f4)
+
 
 # 4.View Transaction History Menu:
 In this menu the user can check the transaction log for the debited or credited balances.
-![image](https://github.com/user-attachments/assets/b90ec5c4-0723-4511-b42e-4ad7e846204b)
+
+![image](https://github.com/user-attachments/assets/d07f92b4-9140-4c0b-870b-8ec0a3cba64c)
+
 
 
 
